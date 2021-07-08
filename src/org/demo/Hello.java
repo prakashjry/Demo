@@ -24,5 +24,13 @@ System.out.println(" eligible for blood donate becoz of height");
 System.out.println("Not eligible for blood donate becoz of Age");
 	}
 }
+	  
+	  
+	  
+	  
+	  
+	  private void ton() {
+		  System.out.println("1234");
+	}
 }
 
